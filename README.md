@@ -4,6 +4,7 @@
 
 The Terraria-Plugin-Template Repository holds 
 a Programming base for TShock plugins with the newest release of TShock.
+
 For more Informations click [here](https://zerif-shinu.github.io/Terraria-Plugin-Template/)
 
 
